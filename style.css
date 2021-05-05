@@ -1,0 +1,88 @@
+body{
+
+	text-align: center;
+	background-image: url("C:/Users/kemal/Desktop/shoping.jpg");
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+h1 {
+
+	color: white;
+	font-size: 30px;
+	border: 10px solid;
+	padding: 5px;
+	background-color: #417d63;
+
+}
+
+li {
+
+	list-style: none;
+	color: white;
+	font-size: 23px;
+	cursor: pointer;
+}
+
+p {
+	font-size: 22px;
+	color: #417d63;
+	font-weight: bold;
+}
+
+
+.h1style {
+
+	color: red;
+	border: 10px solid;
+	padding: 3px;
+	background-color: yellow;
+}
+
+.paragraph {
+
+	color: red;
+	border: 10px solid;
+	padding: 3px;
+	background-color: yellow;
+}
+
+.done {
+
+	text-decoration: line-through;
+	color: red;
+
+}
+
+.classDel{
+
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+
+.inputDesign{
+
+	border: 2px solid #417d63;
+    border-radius: 4px;
+    padding: 10px 30px;
+
+}
+
+button {
+
+	padding: 10px 15px;
+	border-radius: 2px;
+	background-color: #417d63;
+	border: none;
+	color: white;
+
+}
+
+ul {
+
+	background-color: #417d63;
+	margin: 10px 50px;
+	padding: 10px;
+	border-radius: 4px;
+}
